@@ -8,5 +8,4 @@
 
 Rscript myscript.R
 
-readme file readme.readme
 
