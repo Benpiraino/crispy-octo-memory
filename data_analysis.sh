@@ -7,3 +7,6 @@
 #Second python script
 
 Rscript myscript.R
+
+readme file readme.readme
+
