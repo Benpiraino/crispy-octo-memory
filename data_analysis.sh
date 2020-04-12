@@ -4,3 +4,5 @@
 #Function 1
 
 #Function 2
+
+Rscript myscript.R
