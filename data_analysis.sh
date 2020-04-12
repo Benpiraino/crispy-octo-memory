@@ -1,8 +1,7 @@
 #!/bin/bash
 #This will contain my new analytical method.
+#New Method V2
 
-#Function 1
-
-#Function 2
+#python script goes here
 
 Rscript myscript.R
